@@ -1,0 +1,20 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Downloaded third-party datasets
+data/*.csv
+data/**/*.csv
+data/*.zip
+data/**/*.zip
+
+# Local configuration and operating system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
