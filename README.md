@@ -1,7 +1,6 @@
 # Predicting Low-Performing Job Postings with Machine Learning
 
 **Machine learning case study · UC Berkeley Data 144**  
-**Team:** Elise Chang, Mischa Mikami, Sean Tai
 
 ## Overview
 
@@ -64,7 +63,3 @@ The exported notebook retains original Deepnote results for review. **The cleane
 ### Possible extensions
 
 Time-aware validation, stronger baselines, class-specific error analysis, threshold selection, calibrated predictions, hyperparameter tuning, convergence checks, and controlled comparison of text representations.
-
-## Attribution
-
-Developed collaboratively by **Elise Chang, Mischa Mikami, and Sean Tai** as a UC Berkeley Data 144 course project. Individual contribution percentages are not claimed here. Dataset credited to **Arsh Koneru and collaborators**, subject to its source license. This public portfolio copy preserves the original team attribution and excludes the raw dataset.
