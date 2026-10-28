@@ -67,4 +67,4 @@ Time-aware validation, stronger baselines, class-specific error analysis, thresh
 
 ## Attribution
 
-Developed collaboratively by **Elise Chang, Mischa Mikami, and Sean Tai** as a UC Berkeley Data 144 course project. Individual contribution percentages are not claimed here. Dataset credited to **Arsh Koneru and collaborators**, subject to its source license. Before publicly publishing, confirm the team's agreement and relevant course publication rules.
+Developed collaboratively by **Elise Chang, Mischa Mikami, and Sean Tai** as a UC Berkeley Data 144 course project. Individual contribution percentages are not claimed here. Dataset credited to **Arsh Koneru and collaborators**, subject to its source license. This public portfolio copy preserves the original team attribution and excludes the raw dataset.
